@@ -1,3 +1,4 @@
+![logo](https://github.com/krchaudhary024/krchaudhary024/blob/main/Game%20Stream.png)
 <h1 align="center">Hi 👋, I'm Krishna Kumar Khanw</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
