@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krchaudhary024&label=Profile%20views&color=0e75b6&style=flat" alt="krchaudhary024" /> </p>
 
-- 🌱 I’m currently learning **Python with AI**
+- 🌱 I’m currently learning **Php**
 
 - 📫 How to reach me **krchaudhary024@gmail.com**
 
